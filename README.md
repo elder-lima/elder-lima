@@ -7,5 +7,5 @@
 <p>🎓 Formado no Técnico em Desenvolvimento de Sistemas pelo Senai Suiço-Brasileira. Atualmente, cursando Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi.</p>
 
 ---
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,mongodb,docker,aws,git,react,html,css,js)](https://skillicons.dev)
