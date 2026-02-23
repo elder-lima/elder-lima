@@ -8,4 +8,4 @@
 
 ---
 ### 🤖 Linguagens e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,mongodb,docker,aws,git,react,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,mongodb,docker,aws,git,github,postman,html,css,js,bootstrap)](https://skillicons.dev)
